@@ -1,0 +1,48 @@
+.button{
+    background-color: blanchedalmond;
+    font-family: fantasy;
+    border: silver solid 1px;
+    border-radius: 3px;
+    position: fixed;
+}
+
+h1{
+    display: fixed;
+    font-size: 100px;
+    color: cornflowerblue;
+    font-weight: bold;
+    border-bottom: black 5px solid;
+    margin: 0 0;
+    text-align: center;
+}
+
+
+.menu{
+    width: 60px;
+    float: left;
+    margin-right: 70px;
+}
+
+
+.pic_road{
+    position: absolute;
+    opacity: 0.3;
+}
+
+.asdf{
+
+    display: block;
+}
+/*
+.wrapper_manu{
+    display: inline;
+    margin-left:30px;
+}*/
+
+
+
+/*
+#wrapper{
+    display: grid;
+    grid-template-rows: 100px 50px;
+}*/
